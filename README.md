@@ -107,8 +107,15 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44c69ea5-25b6-42d4-ac9f-fcfadcf2f3cb" width="250"/>
-  <img src="https://github.com/user-attachments/assets/f63eb17f-232b-4f42-a9ca-6863863a67e9" width="450"/>
+  <img src="https://github.com/user-attachments/assets/f63eb17f-232b-4f42-a9ca-6863863a67e9" width="350"/>
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ce41afc-919e-4489-b66e-30f54e11fd66" width="300"/>
+  <img src="https://github.com/user-attachments/assets/008aaaca-4975-4e30-a485-7cbeab35975a" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3742d42f-6f46-483e-b412-5ce44034c6a1" width="300"/>
+</div>
+
 
 ---
 
