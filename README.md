@@ -2,7 +2,8 @@
 
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ela!
 ==================================================================================================================================
-
+-----
+#### Before I share with you my love for DATA; I want to share my love for ART, ARCHITECTURE and SUSTAINABILITY! Let's go!
 
 # 🎨 Creative Portfolio
 
@@ -67,6 +68,9 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
   <img src="https://github.com/user-attachments/assets/9f03c436-f13f-400c-bba8-3ba77ce46f9c" width="200"/>
   <img src="https://github.com/user-attachments/assets/328b9618-6893-4c7a-80dc-1b0612c4c0ae" width="800"/>
   <img src="https://github.com/user-attachments/assets/7ddc1fa8-351f-407e-a99f-1f6333720645" width="900"/>
+  
+## Plantable cards made with seeded paper and linocut techniques:
+  
   <img src="https://github.com/user-attachments/assets/b14e95fd-1d02-4d59-b0cb-b34029f8e0e0" width="900"/>
   <img src="https://github.com/user-attachments/assets/51251683-b574-466f-9b4e-032b6e905afe" width="900"/>
   <img src="https://github.com/user-attachments/assets/952bf2a3-9373-4c18-acd9-dfe3a6433116" width="900"/>
@@ -135,23 +139,14 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 
 ---
 
-> *Thank you for visiting my creative space. Every thumbnail links to a full story — stay tuned for more projects!*
+> *Thank you for visiting my creative space. Art is not just a medium, it's a movement. Thank you for being part of mine 🌍🎨*
 
 
 
 
+## ✨ Thanks for Visiting! Let's Connect!
+![image](https://github.com/user-attachments/assets/7cf0de15-30da-4985-bec9-5459fdd53f5d)
 
-
-
-
-
-
-
-
-
-## ✨ Thanks for Visiting
-
-Art is not just a medium, it's a movement. Thank you for being part of mine 🌍🎨
 
 ---
 
