@@ -50,13 +50,13 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 </div>
   <img src="https://github.com/user-attachments/assets/04d59808-0f65-40c7-b97e-3f8c59b9cd5d" width="400"/>
   <img src="https://github.com/user-attachments/assets/51a57131-1cea-4b80-b75d-c0a94090c5aa" width="400"/>
-  <img src="https://github.com/user-attachments/assets/0d7d08af-b1c3-45ca-b1a1-aa717f582f3d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0d7d08af-b1c3-45ca-b1a1-aa717f582f3d" width="200"/>
   <img src="https://github.com/user-attachments/assets/0772af3e-a823-4b1b-a4b8-6a03d4f0a6d3" width="300"/>
   <img src="https://github.com/user-attachments/assets/d62322c6-a40d-4bb2-8477-db0392e4fd01" width="300"/>
   <img src="https://github.com/user-attachments/assets/d9522345-fe66-4df2-8a16-af6acd84d6f7" width="300"/>
   <img src="https://github.com/user-attachments/assets/7567e60e-9b9d-403c-b630-d78ae42e96ab" width="300"/>
-  <img src="https://github.com/user-attachments/assets/fed61695-b1c7-47cf-b929-a9776ebb9f98" width="300"/>
-  <img src="https://github.com/user-attachments/assets/79ae2a41-b6fd-4d05-bb38-a3b17704a637" width="300"/>
+  <img src="https://github.com/user-attachments/assets/fed61695-b1c7-47cf-b929-a9776ebb9f98" width="350"/>
+  <img src="https://github.com/user-attachments/assets/79ae2a41-b6fd-4d05-bb38-a3b17704a637" width="350"/>
 </div>
 
 ---
@@ -70,7 +70,8 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
   <img src="https://github.com/user-attachments/assets/b14e95fd-1d02-4d59-b0cb-b34029f8e0e0" width="900"/>
   <img src="https://github.com/user-attachments/assets/51251683-b574-466f-9b4e-032b6e905afe" width="900"/>
   <img src="https://github.com/user-attachments/assets/952bf2a3-9373-4c18-acd9-dfe3a6433116" width="900"/>
-  Architecture companies Christmas Corporate Greeting Cards offering:
+  
+  ## Architecture companies Christmas Corporate Greeting Cards offering:
   <img src="https://github.com/user-attachments/assets/980c5f55-ba9d-4e2c-83a9-ab1e54da2644" width="900"/>
 </div>
 
