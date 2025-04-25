@@ -129,26 +129,9 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 > *Thank you for visiting my creative space. Art is not just a medium, it's a movement. Thank you for being part of mine 🌍🎨*
-
-
 
 
 ## ✨ Thanks for Visiting! Let's Connect!
@@ -156,11 +139,17 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 
 
 ---
+## Now let's come back to DATA. But first as we where speaking about my artistic side, let me share with you some VISUALISATIONS i did with Tableau:
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/652e502f-fa8e-4e07-b9b5-0f74d52f7df0" width="700"/>
+  <img src="https://github.com/user-attachments/assets/51061bc3-d932-4247-b5f3-f478ac716f84" width="700"/>
+</div>
 
-
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fc971285-d1a3-443d-80ca-ca9b2cedf350" width="700"/>
+  <img src="https://github.com/user-attachments/assets/a0a8385a-d70d-43b8-9143-11f932e0de1f" width="700"/>
+</div>
 
 
 LinkedIn: https://www.linkedin.com/in/ela-v-145792125/
