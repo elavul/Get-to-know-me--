@@ -38,22 +38,22 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
   <img src="https://github.com/user-attachments/assets/109b3f1e-bf19-4e2d-889e-593c274680bb" width="200"/>
   <img src="https://github.com/user-attachments/assets/1677fe8d-5394-4a9e-86f2-3af0be224777" width="200"/>
 
-  <img src="https://github.com/user-attachments/assets/ef53f0a9-19d8-4ef4-9b55-8c6ce1cbfa2c" width="110"/>
-  <img src="https://github.com/user-attachments/assets/a35aabb0-0a94-45c2-8cfe-e122c1719548" width="150"/>
-  <img src="https://github.com/user-attachments/assets/16a36de4-de6a-4588-ba24-34675b4ea10c" width="150"/>
-  <img src="https://github.com/user-attachments/assets/04d59808-0f65-40c7-b97e-3f8c59b9cd5d" width="150"/>
-  <img src="https://github.com/user-attachments/assets/51a57131-1cea-4b80-b75d-c0a94090c5aa" width="150"/>
-  <img src="https://github.com/user-attachments/assets/0d7d08af-b1c3-45ca-b1a1-aa717f582f3d" width="100"/>
-  <img src="https://github.com/user-attachments/assets/0772af3e-a823-4b1b-a4b8-6a03d4f0a6d3" width="150"/>
-  <img src="https://github.com/user-attachments/assets/d62322c6-a40d-4bb2-8477-db0392e4fd01" width="150"/>
-  <img src="https://github.com/user-attachments/assets/d9522345-fe66-4df2-8a16-af6acd84d6f7" width="150"/>
-  <img src="https://github.com/user-attachments/assets/7567e60e-9b9d-403c-b630-d78ae42e96ab" width="150"/>
-  <img src="https://github.com/user-attachments/assets/fed61695-b1c7-47cf-b929-a9776ebb9f98" width="150"/>
-  <img src="https://github.com/user-attachments/assets/79ae2a41-b6fd-4d05-bb38-a3b17704a637" width="150"/>
+  <img src="https://github.com/user-attachments/assets/ef53f0a9-19d8-4ef4-9b55-8c6ce1cbfa2c" width="100"/>
+  <img src="https://github.com/user-attachments/assets/a35aabb0-0a94-45c2-8cfe-e122c1719548" width="100"/>
+  <img src="https://github.com/user-attachments/assets/16a36de4-de6a-4588-ba24-34675b4ea10c" width="100"/>
+  <img src="https://github.com/user-attachments/assets/04d59808-0f65-40c7-b97e-3f8c59b9cd5d" width="100"/>
+  <img src="https://github.com/user-attachments/assets/51a57131-1cea-4b80-b75d-c0a94090c5aa" width="100"/>
+  <img src="https://github.com/user-attachments/assets/0d7d08af-b1c3-45ca-b1a1-aa717f582f3d" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0772af3e-a823-4b1b-a4b8-6a03d4f0a6d3" width="100"/>
+  <img src="https://github.com/user-attachments/assets/d62322c6-a40d-4bb2-8477-db0392e4fd01" width="100"/>
+  <img src="https://github.com/user-attachments/assets/d9522345-fe66-4df2-8a16-af6acd84d6f7" width="100"/>
+  <img src="https://github.com/user-attachments/assets/7567e60e-9b9d-403c-b630-d78ae42e96ab" width="100"/>
+  <img src="https://github.com/user-attachments/assets/fed61695-b1c7-47cf-b929-a9776ebb9f98" width="100"/>
+  <img src="https://github.com/user-attachments/assets/79ae2a41-b6fd-4d05-bb38-a3b17704a637" width="100"/>
 
-  <img src="https://github.com/user-attachments/assets/9f03c436-f13f-400c-bba8-3ba77ce46f9c" width="150"/>
-  <img src="https://github.com/user-attachments/assets/328b9618-6893-4c7a-80dc-1b0612c4c0ae" width="450"/>
-  <img src="https://github.com/user-attachments/assets/7ddc1fa8-351f-407e-a99f-1f6333720645" width="450"/>
+  <img src="https://github.com/user-attachments/assets/9f03c436-f13f-400c-bba8-3ba77ce46f9c" width="100"/>
+  <img src="https://github.com/user-attachments/assets/328b9618-6893-4c7a-80dc-1b0612c4c0ae" width="100"/>
+  <img src="https://github.com/user-attachments/assets/7ddc1fa8-351f-407e-a99f-1f6333720645" width="100"/>
   
 
   
@@ -71,7 +71,7 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 
 ---
 
-## Now let's come back to DATA. But first as we where speaking about my artistic side, let me share with you some VISUALISATIONS i did with Tableau:
+# 🌍🎨 Now let's come back to DATA. But first as we where speaking about my artistic side, let me share with you some VISUALISATIONS i did with Tableau:🌍🎨
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/652e502f-fa8e-4e07-b9b5-0f74d52f7df0" width="700"/>
@@ -84,9 +84,7 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 </div>
 
 
-> *Thank you for visiting my creative space. Art is not just a medium, it's a movement. Thank you for being part of mine 🌍🎨*
-
-## 💼 Core Competencies
+# 💼 Core Competencies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000&color=brightblue" style="filter: drop-shadow(0 0 4px #007ACC);" />
