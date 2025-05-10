@@ -71,7 +71,7 @@ Welcome to my artistic archive — a fusion of passion, play, design, and dreams
 
 ---
 
-# 🌍🎨 Now let's come back to DATA. But first as we where speaking about my artistic side, let me share with you some VISUALISATIONS i did with Tableau:🌍🎨
+# 🌍🎨 Now let's come back to DATA. But first as we were speaking about my artistic side, let me share with you some VISUALISATIONS i did with Tableau:🌍🎨
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/652e502f-fa8e-4e07-b9b5-0f74d52f7df0" width="700"/>
